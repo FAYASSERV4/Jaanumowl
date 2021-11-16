@@ -67,9 +67,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![FAYASSERV4](https://github.com/FAYASSERV4.png?size=100)](https://github.com/FAYASSERV4) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![FAYASSERV4](https://github.com/FAYASSERV4.png?size=100)](https://github.com/FAYASSERV4) |  [![FAYASSERV4](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[FAYASSERV4](https://github.com/FAYASSERV4)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
+[FAYASSERV4](https://github.com/FAYASSERV4)  | [FAYASSERV4](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
